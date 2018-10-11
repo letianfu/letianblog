@@ -2,9 +2,7 @@
 
 ### Tensorflow
 
-
-
-[安装](http:www.baidu.com)
+- [安装](./tensorflow)
 
 
 You can use the [editor on GitHub](https://github.com/letianfu/timblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
