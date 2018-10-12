@@ -4,6 +4,10 @@
 
 - [安装](./tensorflow)
 
+### Numpy
+
+- [基础知识](./numpy/basic)
+
 
 You can use the [editor on GitHub](https://github.com/letianfu/timblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
